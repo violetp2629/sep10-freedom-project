@@ -48,3 +48,9 @@ li.timeline-item::before {
 }
 
 
+.bg-fixed {
+
+  width: auto;
+  padding: 50px;
+  height: auto;
+}
