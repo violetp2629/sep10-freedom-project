@@ -54,3 +54,9 @@ li.timeline-item::before {
   padding: 50px;
   height: auto;
 }
+
+#hologram {
+   height: 950px; 
+   width: 950px;
+   margin: auto;
+}
