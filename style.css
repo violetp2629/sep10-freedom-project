@@ -1,3 +1,7 @@
+body {
+background: linear-gradient(#3f3033, #3c2d2e, #736b7b);
+}
+
 /* Timeline holder */
 ul.timeline {
     list-style-type: none;
