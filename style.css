@@ -70,8 +70,8 @@ li.timeline-item::before {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 500px;
-  height: 500px;
+  height: 400;
+  width: 400;
 }
 
 .timeline {
