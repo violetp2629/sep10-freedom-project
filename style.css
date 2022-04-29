@@ -73,3 +73,12 @@ li.timeline-item::before {
   height: 500px;
 }
 
+.timeline {
+    position: relative;
+    left: -50px;
+}
+
+.future {
+    position: relative;
+    right: -50px;
+}
