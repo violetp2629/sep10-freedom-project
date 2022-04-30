@@ -83,3 +83,8 @@ li.timeline-item::before {
     position: relative;
     right: -50px;
 }
+
+.context {
+    position: relative;
+    left: -15px;
+}
