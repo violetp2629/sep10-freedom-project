@@ -75,16 +75,16 @@ li.timeline-item::before {
 }
 
 .timeline {
-    position: relative;
-    left: -50px;
+    width: 75%;
+    float: left;
 }
 
 .future {
-    position: relative;
-    right: -50px;
+    width: 25%;
+    float: right;
 }
 
 .context {
     position: relative;
-    left: -15px;
+    left: 10px;
 }
