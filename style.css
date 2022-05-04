@@ -88,3 +88,7 @@ li.timeline-item::before {
     position: relative;
     left: 10px;
 }
+
+.timetext {
+    font-size: 20px;
+}
