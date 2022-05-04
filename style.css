@@ -88,3 +88,12 @@ li.timeline-item::before {
     position: relative;
     left: 10px;
 }
+
+
+.title {
+    font-family: 'Handlee', cursive;
+}
+
+.heading {
+    font-family: 'Tangerine', cursive;
+}
