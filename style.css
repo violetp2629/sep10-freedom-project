@@ -61,7 +61,7 @@ li.timeline-item::before {
 
 #hologram {
     margin: auto;
-    border-color: #736b7b;}
+    border-color: #736b7b;
     width: 100%;
     height: auto;
 }
@@ -89,6 +89,7 @@ li.timeline-item::before {
     left: 10px;
 }
 
+/*Timline text*/
 .timetext {
     font-size: 20px;
 }
