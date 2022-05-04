@@ -12,7 +12,7 @@ ul.timeline {
  /* Timeline vertical line */
 ul.timeline:before {
     content: ' ';
-    background: #fff;
+    background: white;
     display: inline-block;
     position: absolute;
     left: 16px;
@@ -39,11 +39,11 @@ li.timeline-item {
 /* Timeline item circle marker */
 li.timeline-item::before {
     content: ' ';
-    background: #ddd;
+    background: #f8f0fc;
     display: inline-block;
     position: absolute;
     border-radius: 50%;
-    border: 3px solid #fff;
+    border: 3px solid #a49bab;
     left: 11px;
     width: 14px;
     height: 14px;
@@ -93,3 +93,4 @@ li.timeline-item::before {
 .timetext {
     font-size: 20px;
 }
+
